@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "CHESSEBURGER",
+    "description": "Medallon de carne vacuna, doble cheddar, pan de papa",
+    "price": "1900",
+    "thumbnail": "./images/img1.jpg",
+    "code": "1001",
+    "stock": "100"
+  },
+  {
+    "id": 2,
+    "title": "DOBLE CUARTO",
+    "description": "Doble medallon de carne vacuna, doble cheddar, salsa mc, pan de papa",
+    "price": 2200,
+    "thumbnail": "./images/img2.jpg",
+    "code": 1002,
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "TRADI",
+    "description": "Doble medallon de carne vacuna, doble cheddar, lechuga, tomate, cebolla, salsa mc, pan de papa",
+    "price": 2250,
+    "thumbnail": "./images/img3.jpg",
+    "code": 1003,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "title": "3x3",
+    "description": "Triple medallon de carne vacuna, triple cheddar, pan de papa",
+    "price": 2300,
+    "thumbnail": "./images/img4.jpg",
+    "code": 1004,
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "title": "HOMERO",
+    "description": "Doble medallon de carne vacuna, doble cheddar, bacon, huevo, doble donut",
+    "price": 2350,
+    "thumbnail": "./images/img5.jpg",
+    "code": 1005,
+    "stock": 100
+  },
+  {
+    "id": 6,
+    "title": "TAPARTERIAS 9000",
+    "description": "Triple medallon de carne vacuna, triple cheddar, bacon, huevo, thousand island salse, pan de papa",
+    "price": 2550,
+    "thumbnail": "./images/img6.jpg",
+    "code": 1006,
+    "stock": 100
+  },
+  {
+    "id": 7,
+    "title": "CRIOLLA",
+    "description": "Doble medallon de carne vacuna, doble provoleta, salsa criolla, tomates cherrys, mayochimi, pan de papa",
+    "price": 2350,
+    "thumbnail": "./images/img7.jpg",
+    "code": 1007,
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "title": "KING ONION",
+    "description": "Doble medallon de carne vacuna, doble cheddar, bacon, aros de cebolla, salsa secreta, pan de papa",
+    "price": 2350,
+    "thumbnail": "./images/img8.jpg",
+    "code": 1008,
+    "stock": 100
+  },
+  {
+    "id": 9,
+    "title": "KING BLUE CHESSE",
+    "description": "Doble medallon de carne vacuna, queso azul, muzzarella, morrones asados, pan de papa",
+    "price": 2350,
+    "thumbnail": "./images/img9.jpg",
+    "code": 1009,
+    "stock": 100
+  },
+  {
+    "id": 10,
+    "title": "OKLAHOMA",
+    "description": "Doble medallon de carne vacuna, triple cheddar, bacon, cebolla caramelizada, pan de papa",
+    "price": 2250,
+    "thumbnail": "./images/img10.jpg",
+    "code": 1010,
+    "stock": 100
+  },
+  {
+    "id": 11,
+    "title": "OKLAHOMA CRISPY",
+    "description": "Doble medallon de carne vacuna, triple cheddar, bacon, cebolla crispy, pan de papa",
+    "price": 2250,
+    "thumbnail": "./images/img11.jpg",
+    "code": 1011,
+    "stock": 100
+  },
+  {
+    "id": 12,
+    "title": "LA GRACIELA",
+    "description": "Medallon NotCo, cebolla caramelizada, muzzarella, morrones asados, ali oli, pan de papa",
+    "price": 2100,
+    "thumbnail": "./images/img12.jpg",
+    "code": 1012,
+    "stock": 100
+  },
+  {
+    "id": 13,
+    "title": "BURGER FAN",
+    "description": "Doble medallon de carne vacuna, cuadruple cheddar, extra bacon, pan de papa",
+    "price": 2200,
+    "thumbnail": "./images/img13.jpg",
+    "code": 1013,
+    "stock": 100
+  },
+  {
+    "id": 14,
+    "title": "STICK",
+    "description": "Doble medallon de carne vacuna, cuadruple cheddar, bastones de muzzarella, mayo ahumada, bacon, pan de papa",
+    "price": 2300,
+    "thumbnail": "./images/img14.jpg",
+    "code": 1014,
+    "stock": 100
+  },
+  {
+    "id": 15,
+    "title": "4 QUE",
+    "description": "Cuadruple medallon de carne vacuna, queso azul, provoleta, muzzarella, doble cheddar, pan de papa",
+    "price": 2700,
+    "thumbnail": "./images/img15.jpg",
+    "code": 1015,
+    "stock": 100
+  },
+  {
+    "id": 16,
+    "title": "CATRINA",
+    "description": "Doble medallon de carne vacuna, queso tybo, pico de gallo, guacamole, nachos, pan de papa",
+    "price": 2400,
+    "thumbnail": "./images/img16.jpg",
+    "code": 1016,
+    "stock": 100
+  },
+  {
+    "id": 17,
+    "title": "TODO TERRENO",
+    "description": "Doble medallon de carne vacuna, cheddar, bacon, papas, salsa cheddar, pan de papa",
+    "price": 2650,
+    "thumbnail": "./images/img17.jpg",
+    "code": 1017,
+    "stock": 100
+  },
+  {
+    "id": 18,
+    "title": "CARO PARDIACO",
+    "description": "Doble medallon de carne vacuna, provoleta, cheddar, BBQ, rueditas Pep, pan de papa",
+    "price": 2450,
+    "thumbnail": "./images/img18.jpg",
+    "code": 1018,
+    "stock": 100
+  },
+  {
+    "id": 19,
+    "title": "CBH",
+    "description": "Medallon de carne vacuna, doble cheddar, bacon, huevo, pan de papa",
+    "price": 2100,
+    "thumbnail": "./images/img19.jpg",
+    "code": 1019,
+    "stock": 100
+  },
+  {
+    "id": 20,
+    "title": "5x2",
+    "description": "Quintuple medallon de carne vacuna, cheddar por 10, bacon, pan de papa",
+    "price": 2950,
+    "thumbnail": "./images/img20.jpg",
+    "code": 1020,
+    "stock": 100
+  }
+]

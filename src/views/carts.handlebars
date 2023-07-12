@@ -1,0 +1,36 @@
+<main>
+	<div class="title">
+		<a href="/"><img src="/images/logo.png" class="logo" alt="" /></a>
+		<h1 class="text-center">{{{title}}}</h1>
+		<hr />
+	</div>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col g-0 d-flex flex-column justify-content-center align-items-center mb-5">
+				{{#each plainCart}}
+					<div id="cart-container">
+						<div class="cart-item d-flex bord er border-black mb-2" style="width: 800px;">
+							<div class="item-img p-2">
+								<img
+									class="item-thumbnail"
+									src=".{{this.product.thumbnail}}"
+									alt="Imagen del producto"
+									width="350px"
+								/>
+							</div>
+							<div
+								class="items-details d-flex flex-column justify-content-center align-items-center w-100"
+							>
+								<h3 class="item-title fs-1">{{this.product.title}}</h3>
+								<p class="item-description text-center fs-3">{{this.product.description}}</p>
+								<p class="item-price fs-4 fw-bold">${{this.product.price}}.-</p>
+								<p class="fs-4">Cantidad:
+									<span class="fw-bold">{{this.quantity}}</span></p>
+							</div>
+						</div>
+					</div>
+				{{/each}}
+			</div>
+		</div>
+	</div>
+</main>

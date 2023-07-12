@@ -1,0 +1,3 @@
+TODO: 1 Cuando hay un error enviarlo a una vista de handlebars donde se muestra de forma custom que es lo que ocurrio.
+TODO: 2 Unificar varios routers loginRouter, logoutRouter y registerRouter.
+TODO: 3 Ojo que la primer funcion de express cuando recibimos un req debe tener un try catch siempre que sea async (try catch envolviendo TODO!!!)
